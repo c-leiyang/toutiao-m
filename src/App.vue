@@ -3,6 +3,9 @@
     <!-- 路由出口 -->
     <router-view/>
     <h1>今日头条</h1>
+    <div>
+      <i class="toutiao toutiao-lishi"></i>
+    </div>
   </div>
 </template>
 
